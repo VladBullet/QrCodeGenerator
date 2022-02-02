@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/QrCodeGenerator/v17
+/QrCodeGenerator/bin/Debug/net5.0
+/QrCodeGenerator/obj
+/QrCodeGenerator/QrCodeGenerator.csproj.user
