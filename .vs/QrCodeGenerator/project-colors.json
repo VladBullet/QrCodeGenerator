@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "efdf7990-b19c-4b87-954a-3212e620240c": {
+      "ProjectGuid": "efdf7990-b19c-4b87-954a-3212e620240c",
+      "DisplayName": "QrCodeGenerator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
